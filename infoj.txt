@@ -1,1 +1,3 @@
 This is a critical file that I'm going to amend
+
+Commit #2 doing squash activity
